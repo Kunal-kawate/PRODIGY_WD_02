@@ -47,6 +47,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions, suggestions, or just want to connect, you can reach me at [kunalkawate424@gmail.com].
+If you have any questions, suggestions, or just want to connect, you can reach me at kunalkawate424@gmail.com
 
 Thank you for checking out my Stopwatch Web Application!
